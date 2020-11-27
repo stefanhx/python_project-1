@@ -1,2 +1,2 @@
-# python_project-1
-Exploring the nature of GitHub and its functionality  
+# Python_project-1
+Exploring the nature of GitHub and its functionality.
